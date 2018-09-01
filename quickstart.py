@@ -12,6 +12,8 @@ from oauth2client import file, client, tools
 
 # If modifying these scopes, delete the file token.json.
 SCOPES = 'https://www.googleapis.com/auth/calendar'
+
+# change the below values to whatever fits your data
 FALL_SEM_YEAR = '2018'
 SPRING_SEM_YEAR = '2019'
 ROSTER_FILE = "5SERoster.csv"
