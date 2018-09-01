@@ -13,6 +13,5 @@ I'm also an RA. As a result, I like to recognize my residents' birthdays wheneve
 ---
 
 ## Acknowledgements
-
 * [Google Calendar API Python Quickstart](https://developers.google.com/calendar/quickstart/python)
 
